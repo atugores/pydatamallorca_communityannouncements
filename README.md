@@ -1,0 +1,2 @@
+# pydatamallorca_communityannouncements
+Community announcemetns fot PyData Mallorca Meetup
